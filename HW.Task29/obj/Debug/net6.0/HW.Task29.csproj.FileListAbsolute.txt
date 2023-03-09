@@ -1,0 +1,15 @@
+/Users/zelamkh/HomeWork4/HW.Task29/bin/Debug/net6.0/HW.Task29
+/Users/zelamkh/HomeWork4/HW.Task29/bin/Debug/net6.0/HW.Task29.deps.json
+/Users/zelamkh/HomeWork4/HW.Task29/bin/Debug/net6.0/HW.Task29.runtimeconfig.json
+/Users/zelamkh/HomeWork4/HW.Task29/bin/Debug/net6.0/HW.Task29.dll
+/Users/zelamkh/HomeWork4/HW.Task29/bin/Debug/net6.0/HW.Task29.pdb
+/Users/zelamkh/HomeWork4/HW.Task29/obj/Debug/net6.0/HW.Task29.csproj.AssemblyReference.cache
+/Users/zelamkh/HomeWork4/HW.Task29/obj/Debug/net6.0/HW.Task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/HomeWork4/HW.Task29/obj/Debug/net6.0/HW.Task29.AssemblyInfoInputs.cache
+/Users/zelamkh/HomeWork4/HW.Task29/obj/Debug/net6.0/HW.Task29.AssemblyInfo.cs
+/Users/zelamkh/HomeWork4/HW.Task29/obj/Debug/net6.0/HW.Task29.csproj.CoreCompileInputs.cache
+/Users/zelamkh/HomeWork4/HW.Task29/obj/Debug/net6.0/HW.Task29.dll
+/Users/zelamkh/HomeWork4/HW.Task29/obj/Debug/net6.0/refint/HW.Task29.dll
+/Users/zelamkh/HomeWork4/HW.Task29/obj/Debug/net6.0/HW.Task29.pdb
+/Users/zelamkh/HomeWork4/HW.Task29/obj/Debug/net6.0/HW.Task29.genruntimeconfig.cache
+/Users/zelamkh/HomeWork4/HW.Task29/obj/Debug/net6.0/ref/HW.Task29.dll
